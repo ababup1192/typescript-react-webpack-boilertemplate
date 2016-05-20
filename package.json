@@ -1,6 +1,6 @@
 {
-  "name": "typescript-react-webpack",
-  "author": "Willson Mock",
+  "name": "typescript-react-boilertemplate",
+  "author": "ababup1192",
   "scripts": {
     "start": "webpack-dev-server",
     "build": "webpack",
